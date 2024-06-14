@@ -9,6 +9,7 @@ Um estudo em python, criando um jogo da forca em CMD
 
 ```bash
 git clone https://github.com/Jonthmiranda/Jogo.da.forca
+```
 
 ## Uso
 
