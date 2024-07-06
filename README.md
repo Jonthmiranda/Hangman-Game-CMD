@@ -1,5 +1,4 @@
-# Nome do Projeto
-Jogo da forca CMD
+# Jogo da forca em CMD
 
 ## Descrição
 
@@ -13,8 +12,6 @@ git clone https://github.com/Jonthmiranda/Jogo.da.forca
 
 ## Uso
 
-Fácil uso e entendimento, apenas inicie o código usando um compilador
+Fácil uso e entendimento, apenas inicie o código usando um compilador Python
 O código escolherá uma palavra aleatória de uma lista
-Então o usuário terá 6 chances para acertar a palavra 
-
-
+Então o usuário terá 6 chances para acertar a palavra
