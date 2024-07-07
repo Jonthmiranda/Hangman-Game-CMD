@@ -9,7 +9,7 @@ A study in Python, creating a hangman game in CMD
 ## Installation
 
 ```bash
-git clone https://github.com/Jonthmiranda/Jogo.da.forca
+git clone https://github.com/Jonthmiranda/Hangman-Game-CMD
 ```
 
 ## Usage
