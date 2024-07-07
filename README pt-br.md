@@ -16,6 +16,6 @@ git clone https://github.com/Jonthmiranda/Jogo.da.forca
 
 Inicie o código usando um compilador Python;
 
-O código escolherá uma palavra aleatória de uma lista presente na variavel " ";
+O código escolherá uma palavra aleatória de uma lista presente na variavel "palavra";
 
 Então o usuário terá 6 chances para acertar a palavra
