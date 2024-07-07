@@ -1,3 +1,4 @@
+[Português]() | English
 # Jogo da forca em CMD
 
 ## Descrição
