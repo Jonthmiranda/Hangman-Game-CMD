@@ -16,6 +16,6 @@ git clone https://github.com/Jonthmiranda/Jogo.da.forca
 
 Start code using a Python compiler;
 
-The code will choose a random word from a list present in the variable " ";
+The code will choose a random word from a list present in the variable "word";
 
 Then the user will have 6 chances to get the word right
