@@ -1,4 +1,4 @@
-Português | [English](https://github.com/Jonthmiranda/Jogo.da.forca/blob/main/README%20pt-br.md)
+[Português](https://github.com/Jonthmiranda/Jogo.da.forca/blob/main/README%20pt-br.md) | English
 
 # Hangman game in CMD
 
