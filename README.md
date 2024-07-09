@@ -14,7 +14,7 @@ git clone https://github.com/Jonthmiranda/Hangman-Game-CMD
 
 ## Usage
 
-Start code using a Python compiler or CMD with: '''bash python Hangman.py''';
+Start code using a Python compiler or CMD;
 
 The code will choose a random word from a list present in the variable "word";
 
