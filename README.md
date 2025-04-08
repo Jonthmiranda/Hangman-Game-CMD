@@ -1,5 +1,3 @@
-Português | [English](https://github.com/Jonthmiranda/Jogo.da.forca/blob/main/README.md)
-
 # Jogo da forca em CMD
 
 ## Descrição
