@@ -1,11 +1,3 @@
-## Uso
-
-Inicie o código usando um compilador Python;
-
-O código escolherá uma palavra aleatória de uma lista presente na variavel "word";
-
-Então o usuário terá 6 chances para acertar a palavra
-
 # Hangman Game em CMD
 
 Jogo da forca simples
@@ -32,6 +24,7 @@ O sistema já está pronto para uso
 
 - Você pode adicionar quantas palavras quiser no array 'word' linha 8
 - Apenas inicie o Hangman.py
+- Tem 6 chances de acertar a palavra, refente a cabeça, tronco, os dois braços e duas pernas
 
 ## Contato
 
