@@ -16,7 +16,7 @@ Antes de começar, verifique se você tem instalado:
 Siga estas etapas para usar o projeto:
 
 ```bash
-git clone https://github.com/Jonthmiranda/AlphaWorkout
+git clone https://github.com/Jonthmiranda/Hangman-Game-CMD
 ```
 O sistema já está pronto para uso
 
